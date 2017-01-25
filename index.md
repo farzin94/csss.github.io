@@ -11,21 +11,21 @@ Servings: 10 slices	Prep time: 10 mins	Cook time: 30 mins
 
 
 ### Ingredients
-    - 3/4 Cup Almond Flour 
-    - 3 Large eggs Separated
-    - 2 tbsp Butter melted
-    - 1.50 tsp Baking powder
-    - 1/8 tsp Cream of Tartar (optional)
-    - 0.50 pinch salt
+  - 3/4 Cup Almond Flour 
+  - 3 Large eggs Separated
+  - 2 tbsp Butter melted
+  - 1.50 tsp Baking powder
+  - 1/8 tsp Cream of Tartar (optional)
+  - 0.50 pinch salt
 
 
 ### Instructions
-    1. Preheat oven to 375 F.
-    2. Separate the egg whites from the yolks. Add Cream of Tartar to the whites and beat until soft peaks are achieved.
-    3. In a food processor combine the egg yolks, butter, almond flour, baking powder and salt. Mix until combined. This will be a lumpy thick dough until the whites are added. Combine in two parts to ensure thorough mixing.
-    4. Add 1/3 of the beaten egg whites to the almond flour mixture and process until mixed.
-    5. Add the remaining 2/3 of the egg whites and gently process until fully incorporated. Be careful not to overmix as this is what gives the bread it's volume!
-    6. Pour mixture into a buttered 8x4 loaf pan. Bake for 30 minutes. Check with a toothpick to ensure the bread is cooked through. Enjoy! 1 loaf makes 20 slices.
+  1. Preheat oven to 375 F.
+  2. Separate the egg whites from the yolks. Add Cream of Tartar to the whites and beat until soft peaks are achieved.
+  3. In a food processor combine the egg yolks, butter, almond flour, baking powder and salt. Mix until combined. This will be a lumpy thick dough until the whites are added. Combine in two parts to ensure thorough mixing.
+  4. Add 1/3 of the beaten egg whites to the almond flour mixture and process until mixed.
+  5. Add the remaining 2/3 of the egg whites and gently process until fully incorporated. Be careful not to overmix as this is what gives the bread it's volume!
+  6. Pour mixture into a buttered 8x4 loaf pan. Bake for 30 minutes. Check with a toothpick to ensure the bread is cooked through. Enjoy! 1 loaf makes 20 slices.
 
 ---
 
