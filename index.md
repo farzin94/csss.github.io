@@ -68,4 +68,4 @@ Prep time: 15 mins	Cook time: 30 mins
 4. Stir until boiling, reduce heat and simmer for 10-15 mins 
 5. Add seasoning (salt, pepper, garlic salt etc.)
 
-
+---
