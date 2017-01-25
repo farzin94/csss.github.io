@@ -23,6 +23,8 @@ Servings: 10 slices	Prep time: 10 mins	Cook time: 30 mins
 5. Add the remaining 2/3 of the egg whites and gently process until fully incorporated. Be careful not to overmix as this is what gives the bread it's volume!
 6. Pour mixture into a buttered 8x4 loaf pan. Bake for 30 minutes. Check with a toothpick to ensure the bread is cooked through. Enjoy! 1 loaf makes 20 slices.
 
+---
+
 ## [Keto Cheesecake](http://the-lowcarb-diet.com/keto-cheesecake/)
 Prep time: 15 mins	Cook time: 30 mins
 
@@ -39,7 +41,9 @@ Prep time: 15 mins	Cook time: 30 mins
 3. Lightly grease the sides of a 9" springform pan and put the springform on a baking sheet. Pour in the filling. Bake for 30-40 minutes or until puffy and lightly brown around the edges.
 4. Let cool for about 1-2 hours on wire rack. Cover, chill for at least 4 hours.
 
-## [Cream of Spinach Soup](https://www.reddit.com/r/ketorecipes/comments/5pidkb/spinachbaconcream_soup/)
+--- 
+
+## [Cream of Spinach Soup](https://www.reddit.com/r/ketorecipes/comments/5pidkb/spinachbaconcream_soup/)<a name="cream-of-spinach-soup">
 
 ### Ingredients
 - 4 cups frozen spinach (thawed)
