@@ -17,7 +17,7 @@ Servings: 10 slices	Prep time: 10 mins	Cook time: 30 mins
   - 1.50 tsp Baking powder
   - 1/8 tsp Cream of Tartar (optional)
   - 0.50 pinch salt
-
+<br><br>
 
 ### Instructions
   1. Preheat oven to 375 F.
@@ -40,7 +40,7 @@ Prep time: 15 mins	Cook time: 30 mins
   - 1 teaspoons vanilla
   - ⅓ cup sour cream
   - 4 eggs
-
+<br><br>
 
 ### Instructions
   1. Preheat oven to 350. Beat cream cheese until fluffy, about 3 minutes. Combine with sweetener, sour cream and vanilla extract, mixing for about 3 minutes.
@@ -59,7 +59,7 @@ Prep time: 15 mins	Cook time: 30 mins
   - 1 cup of heavy cream
   - 2 cups of beef broth
   - 1 baby-bel cheese 
-
+<br><br>
 
 ### Instructions
   1. Cook bacon to almost crispy
