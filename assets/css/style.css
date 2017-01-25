@@ -1,8 +1,12 @@
+
 body {
+    position: relative;
     margin-left: auto;
     margin-right: auto;
+    width: 60em;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
-ul, ol {
-    padding-left: 20px;
+a {
+    color: #41b7d8;
 }
