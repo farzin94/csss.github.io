@@ -5,8 +5,8 @@
 
 --- 
 
-<a name="keto-bread"></a>
-## [Keto Bread](http://ketoconnect.net/recipe/best-keto-bread/)
+
+## [Keto Bread](http://ketoconnect.net/recipe/best-keto-bread/)<a name="keto-bread"></a>
 Servings: 10 slices	Prep time: 10 mins	Cook time: 30 mins	
 
 
@@ -29,8 +29,8 @@ Servings: 10 slices	Prep time: 10 mins	Cook time: 30 mins
 
 ---
 
-<a name="keto-cheesecake"></a>
-## [Keto Cheesecake](http://the-lowcarb-diet.com/keto-cheesecake/)
+
+## [Keto Cheesecake](http://the-lowcarb-diet.com/keto-cheesecake/)<a name="keto-cheesecake"></a>
 Prep time: 15 mins	Cook time: 30 mins
 
 
@@ -50,8 +50,8 @@ Prep time: 15 mins	Cook time: 30 mins
 
 --- 
 
-<a name="cream-of-spinach-soup">
-## [Cream of Spinach Soup](https://www.reddit.com/r/ketorecipes/comments/5pidkb/spinachbaconcream_soup/)
+
+## [Cream of Spinach Soup](https://www.reddit.com/r/ketorecipes/comments/5pidkb/spinachbaconcream_soup/)<a name="cream-of-spinach-soup">
 
 ### Ingredients
 - 4 cups frozen spinach (thawed)
