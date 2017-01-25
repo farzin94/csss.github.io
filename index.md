@@ -5,8 +5,10 @@
 
 --- 
 
-## [Keto Bread](http://ketoconnect.net/recipe/best-keto-bread/)<a name="keto-bread"></a>
+<a name="keto-bread"></a>
+## [Keto Bread](http://ketoconnect.net/recipe/best-keto-bread/)
 Servings: 10 slices	Prep time: 10 mins	Cook time: 30 mins	
+
 
 ### Ingredients
 - 3/4 Cup Almond Flour 
@@ -15,6 +17,7 @@ Servings: 10 slices	Prep time: 10 mins	Cook time: 30 mins
 - 1.50 tsp Baking powder
 - 1/8 tsp Cream of Tartar (optional)
 - 0.50 pinch salt
+
 
 ### Instructions
 1. Preheat oven to 375 F.
@@ -26,8 +29,10 @@ Servings: 10 slices	Prep time: 10 mins	Cook time: 30 mins
 
 ---
 
+<a name="keto-cheesecake"></a>
 ## [Keto Cheesecake](http://the-lowcarb-diet.com/keto-cheesecake/)
 Prep time: 15 mins	Cook time: 30 mins
+
 
 ### Ingredients
 - 3 8 oz. packages of cream cheese
@@ -35,6 +40,7 @@ Prep time: 15 mins	Cook time: 30 mins
 - 1 teaspoons vanilla
 - ⅓ cup sour cream
 - 4 eggs
+
 
 ### Instructions
 1. Preheat oven to 350. Beat cream cheese until fluffy, about 3 minutes. Combine with sweetener, sour cream and vanilla extract, mixing for about 3 minutes.
@@ -44,7 +50,8 @@ Prep time: 15 mins	Cook time: 30 mins
 
 --- 
 
-## [Cream of Spinach Soup](https://www.reddit.com/r/ketorecipes/comments/5pidkb/spinachbaconcream_soup/)<a name="cream-of-spinach-soup">
+<a name="cream-of-spinach-soup">
+## [Cream of Spinach Soup](https://www.reddit.com/r/ketorecipes/comments/5pidkb/spinachbaconcream_soup/)
 
 ### Ingredients
 - 4 cups frozen spinach (thawed)
@@ -53,9 +60,12 @@ Prep time: 15 mins	Cook time: 30 mins
 - 2 cups of beef broth
 - 1 baby-bel cheese 
 
+
 ### Instructions
 1. Cook bacon to almost crispy
 2. Add the spinach (no draining required) and cook until spinach heated through 
 3. Add the broth, cream and cheese
 4. Stir until boiling, reduce heat and simmer for 10-15 mins 
 5. Add seasoning (salt, pepper, garlic salt etc.)
+
+
