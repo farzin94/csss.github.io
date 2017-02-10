@@ -14,9 +14,11 @@ a {
     color: #41b7d8;
 }
 
-table {
-    border-spacing: 2px;
-    border-color: grey;
-    border-style: solid;
-    border-width: thin;
+table td {
+    padding: 0.5em 1em;
+    border: 1px solid #ddd;
+}
+
+table tr {
+    border-top: 1px solid #ccc;
 }
