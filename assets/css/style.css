@@ -11,7 +11,9 @@ body {
 }
 
 a {
-    color: #41b7d8;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
 }
 
 table td {
@@ -23,4 +25,11 @@ table th {
     padding: 0.5em 1em;
     border: 1px solid #ddd;
 }
-
+.menu {
+    background-color:#1A2634; 
+    height: 3em;
+}
+.menu-elem {
+    margin: 1em;
+    display: inline-block;
+}
