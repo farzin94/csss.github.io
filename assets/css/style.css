@@ -1,7 +1,6 @@
-.container {
-    overflow-wrap: normal;
-}
+
 body {
+    margin-top: 2.5em;
     position: relative;
     margin-left: auto;
     margin-right: auto;
@@ -14,6 +13,8 @@ div a {
     text-decoration: none;
     color: white;
     font-weight: bold;
+    display: block;
+    margin: 1em;
 }
 
 table td {
@@ -26,10 +27,13 @@ table th {
     border: 1px solid #ddd;
 }
 .menu {
-    background-color:#1A2634; 
+    background-color: #009D98;
     height: 3em;
 }
 .menu-elem {
-    margin: 1em;
     display: inline-block;
+    height: 100%;
+}
+.menu-elem:hover {
+    background-color: #028581;
 }
